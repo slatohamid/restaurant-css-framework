@@ -5,3 +5,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/slatohamid/restaurant-css-framework )
 ![GitHub watchers](https://img.shields.io/github/watchers/slatohamid/restaurant-css-framework)
 ![GitHub forks](https://img.shields.io/github/forks/slatohamid/restaurant-css-framework)
+
+live at https://slatohamid.github.io/restaurant-css-framework/
+
+<div align="center">
+  <a href="https://github.com/slatohamid/My-CV">
+    ![GitHub Badge](https://img.shields.io/badge/placement%20of%20element%20with-BOOTSTRAP-%2311111?style=for-the-badge&logo=github&logoColor=%237952B3&labelColor=%23fff&color=%237952B3&link=https%3A%2F%2Fgetbootstrap.com%2F)
+  </a>
+</div>
+
