@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Restaurant - BeBurger - Slato Hamid</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+
+  <body>
+    <!--Navigation bar-->
+    <!--to keep nav bat to do top class sticky-top-->
+    <nav
+      class="navbar navbar-expand-lg text-center bg-white shadow py-3 sticky-top"
+    >
+      <div
+        class="container h-100 d-flex align-items-center justify-content-center"
+      >
+        <a class="navbar-brand" href="index.html"
+          ><img src="./assets/images/logo2.png" alt=""
+        /></a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav mx-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Welcome</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="menu.html">Menu</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="gallery.html">Pictures</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="restaurant.html">Restaurant</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+          </ul>
+          <a href="#" class="btn btn-brand">Order Online</a>
+        </div>
+      </div>
+    </nav>
+    <!--Reservation-->
+
+    <section id="reservation">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 intro-text">
+            <h1>Contact Us</h1>
+            <p>
+              Feel free to reach out to us by phone to place an online order
+            </p>
+
+            <p>
+              <a class="phone" href="">+123 89 67 45</a>
+            </p>
+            <p>
+              <a class="phone" href="">+123 45 67 89</a>
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 intro-text">
+            <h1>Book your table</h1>
+            <p>
+              Secure your spot by making a reservation below. We can't wait to
+              serve you the best burgers in town!
+            </p>
+          </div>
+        </div>
+
+        <form action="" class="row justify-content-center">
+          <div class="col-lg-8">
+            <div class="row g-3">
+              <div class="form-group col-md-12">
+                <select id="messageSubject" class="form-control" required>
+                  <option value="" disabled selected>Select a subject</option>
+                  <option value="General Inquiry">General Inquiry</option>
+                  <option value="Reservation">Reservation</option>
+                  <option value="Feedback">Feedback</option>
+                  <option value="Other">Other</option>
+                </select>
+              </div>
+              <div class="form-group col-md-6">
+                <input
+                  type="text"
+                  class="form-control"
+                  placeholder="Full name"
+                  required
+                />
+              </div>
+              <div class="form-group col-md-6">
+                <input
+                  type="email"
+                  class="form-control"
+                  placeholder="Email address"
+                  required
+                />
+              </div>
+              <div class="form-group col-md-6">
+                <input
+                  type="date"
+                  class="form-control"
+                  placeholder="Date"
+                  required
+                />
+              </div>
+              <div class="form-group col-md-6">
+                <input
+                  type="time"
+                  class="form-control"
+                  placeholder="Time"
+                  required
+                />
+              </div>
+
+              <div class="form-group col-md-12">
+                <textarea
+                  name=""
+                  id=""
+                  cols="30"
+                  rows="4"
+                  class="form-control"
+                  placeholder="Message"
+                ></textarea>
+              </div>
+              <div class="form-group text-center col-md-12">
+                <button type="submit" class="btn btn-brand">
+                  Send Message
+                </button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </section>
+  </body>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"
+  ></script>
+</html>
