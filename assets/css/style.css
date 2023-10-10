@@ -148,11 +148,13 @@ section {
 
 .page-item .page-link {
   background-color: #fff;
+  margin-bottom: ;
   margin-left: 8px;
   margin-right: 8px;
   color: #222;
   border-radius: 0px;
   box-shadow: 20px 0px 40px rgba(0, 0, 0, 0.1);
+  min-height: 58px;
 }
 .page-item .page-link:hover {
   background-color: #f58d17;
@@ -217,4 +219,14 @@ input.form-control {
 
 #acceptCookies:hover {
   background-color: #d37810; /* Accept button background color on hover */
+}
+
+@media {
+  section {
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  .logo2 {
+    size-adjust: -20%;
+  }
 }
