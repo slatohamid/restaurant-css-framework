@@ -214,17 +214,20 @@ input.form-control {
 }
 
 #acceptCookies {
-  background-color: #d37810; /* Accept button background color */
-  border-color: #d37810; /* Accept button border color */
+  background-color: #d37810;
+  border-color: #d37810;
 }
 
 #acceptCookies:hover {
-  background-color: #d37810; /* Accept button background color on hover */
+  background-color: #d37810;
 }
 
-@media {
+@media (max-width: 768px) {
   section {
     padding-top: 30px;
     padding-bottom: 10px;
   }
-
+  .carousel-item h1 {
+    font-size: 1rem;
+  }
+}
