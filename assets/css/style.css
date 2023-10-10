@@ -124,6 +124,7 @@ section {
   color: #222;
   border-radius: 100px;
   box-shadow: 20px 0px 40px rgba(0, 0, 0, 0.2);
+  min-height: 58px;
 }
 
 #menu .nav-pills .nav-link.active {
@@ -226,7 +227,4 @@ input.form-control {
     padding-top: 30px;
     padding-bottom: 10px;
   }
-  .logo2 {
-    size-adjust: -20%;
-  }
-}
+
