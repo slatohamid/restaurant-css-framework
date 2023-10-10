@@ -32,7 +32,7 @@ Here are the highlights:
 
 <img src="https://github.com/slatohamid/restaurant-css-framework/assets/117818692/cf635a3d-765a-438f-9d76-96c40cac2bd7" alt="working-at-the-beach-ttthefineprinttt" align="centre" width="400">
 
-<img src="https://github.com/slatohamid/restaurant-css-framework/assets/117818692/375509ef-4c8e-422e-b344-ae7e7e85fc8a" alt="Capturekljlj" align="right" height="400" width="500">
+<img src="https://github.com/slatohamid/restaurant-css-framework/assets/117818692/375509ef-4c8e-422e-b344-ae7e7e85fc8a" alt="Capturekljlj" align="right" height="400" width="400">
 
 ## Achievements
 - Mastered Bootstrap for element placement.
