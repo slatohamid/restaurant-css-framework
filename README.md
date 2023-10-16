@@ -2,10 +2,12 @@
 
 [![Bootstrap Badge](https://img.shields.io/badge/placement%20of%20element%20with-BOOTSTRAP-%2311111?style=flat&logo=bootstrap&logoColor=%237952B3&labelColor=%23fff&color=%237952B3&link=https%3A%2F%2Fgetbootstrap.com%2F)](https://getbootstrap.com/)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/slatohamid/restaurant-css-framework)](https://github.com/slatohamid/restaurant-css-framework)
-[![GitHub Watchers](https://img.shields.io/github/watchers/slatohamid/restaurant-css-framework)](https://github.com/slatohamid/restaurant-css-framework/watchers)
-[![Views](https://img.shields.io/badge/Views-100-blue)]([https://your-page-url](https://slatohamid.github.io/restaurant-css-framework/))
+[![Views](https://img.shields.io/badge/Views-19-blue)]([[https://your-page-url](https://slatohamid.github.io/restaurant-css-framework/)](https://slatohamid.github.io/restaurant-css-framework/))
 
 [![GitHub Forks](https://img.shields.io/github/forks/slatohamid/restaurant-css-framework)](https://github.com/slatohamid/restaurant-css-framework/network/members)
+
+
+
 
 ## BeBurger Restaurant Website: Mission Accomplished! 🚀🍔🎉
 
